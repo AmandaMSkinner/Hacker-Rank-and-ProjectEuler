@@ -80,17 +80,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../amanda-skinner-student-code/java/module-1/week-1/01_Variables_and_Datatypes/exercise" />
   </component>
-  <component name="RunManager" selected="Application.Problem0003">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="ProjectEuler" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem0004">
     <configuration name="Problem0001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem0001" />
       <module name="ProjectEuler" />
@@ -105,6 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem0003 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem0003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem0003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem0003" />
       <module name="ProjectEuler" />
@@ -112,18 +108,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem0004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem0004" />
+      <module name="ProjectEuler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Problem0001" />
       <item itemvalue="Application.Problem0002" />
       <item itemvalue="Application.Problem0003" />
+      <item itemvalue="Application.Problem0003 (1)" />
+      <item itemvalue="Application.Problem0004" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem0004" />
         <item itemvalue="Application.Problem0003" />
+        <item itemvalue="Application.Problem0003 (1)" />
         <item itemvalue="Application.Problem0002" />
         <item itemvalue="Application.Problem0001" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
