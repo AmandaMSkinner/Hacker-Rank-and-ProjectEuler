@@ -80,14 +80,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../amanda-skinner-student-code/java/module-1/week-1/01_Variables_and_Datatypes/exercise" />
   </component>
-  <component name="RunManager" selected="Application.Problem0005">
-    <configuration name="Problem0002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem0002" />
-      <module name="ProjectEuler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem0006">
     <configuration name="Problem0003 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem0003" />
       <method v="2">
@@ -115,20 +108,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem0006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem0006" />
+      <module name="ProjectEuler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Problem0002" />
       <item itemvalue="Application.Problem0003" />
       <item itemvalue="Application.Problem0003 (1)" />
       <item itemvalue="Application.Problem0004" />
       <item itemvalue="Application.Problem0005" />
+      <item itemvalue="Application.Problem0006" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem0006" />
         <item itemvalue="Application.Problem0005" />
         <item itemvalue="Application.Problem0004" />
         <item itemvalue="Application.Problem0003" />
         <item itemvalue="Application.Problem0003 (1)" />
-        <item itemvalue="Application.Problem0002" />
       </list>
     </recent_temporary>
   </component>
