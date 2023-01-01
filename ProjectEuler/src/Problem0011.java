@@ -24,7 +24,7 @@ public class Problem0011 {
                 }
             }
         }
-        System.out.println("The horizontal max product is " + maxProduct);
+        //System.out.println("The horizontal max product is " + maxProduct);
         //Column Check
         for (int i = 0; i < 17; i++) {
             for (int j = 0; j < 20; j++) {
@@ -34,7 +34,7 @@ public class Problem0011 {
                 }
             }
         }
-        System.out.println("The vertical max product is " + maxProduct);
+        //System.out.println("The vertical max product is " + maxProduct);
         //Rdiag Check
         for (int i = 0; i < 17; i++) {
             for (int j = 0; j < 17; j++) {
@@ -44,6 +44,17 @@ public class Problem0011 {
                 }
             }
         }
-        System.out.println("The right diagonal max product is " + maxProduct);
+        //System.out.println("The right diagonal max product is " + maxProduct);
+        //Ldiag Check
+        for (int i = 0; i < 17; i++) {
+            for (int j = 0; j < 17; j++) {
+                int chkRig = grid[i][j+3] * grid[i + 1][j + 2] * grid[i + 2][j + 1] * grid[i + 3][j];
+                if (chkRig > maxProduct) {
+                    maxProduct = chkRig;
+                }
+            }
+        }
+        //System.out.println("The left diagonal max product is " + maxProduct);
+        System.out.println(maxProduct);
     }
 }
