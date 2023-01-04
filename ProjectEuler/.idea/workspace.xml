@@ -80,14 +80,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../amanda-skinner-student-code/java/module-1/week-1/01_Variables_and_Datatypes/exercise" />
   </component>
-  <component name="RunManager" selected="Application.Problem0011">
-    <configuration name="Problem0007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem0007" />
-      <module name="ProjectEuler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem0012">
     <configuration name="Problem0008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem0008" />
       <module name="ProjectEuler" />
@@ -116,20 +109,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem0012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem0012" />
+      <module name="ProjectEuler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Problem0007" />
       <item itemvalue="Application.Problem0008" />
       <item itemvalue="Application.Problem0009" />
       <item itemvalue="Application.Problem0010" />
       <item itemvalue="Application.Problem0011" />
+      <item itemvalue="Application.Problem0012" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem0011" />
+        <item itemvalue="Application.Problem0012" />
         <item itemvalue="Application.Problem0010" />
+        <item itemvalue="Application.Problem0011" />
         <item itemvalue="Application.Problem0009" />
         <item itemvalue="Application.Problem0008" />
-        <item itemvalue="Application.Problem0007" />
       </list>
     </recent_temporary>
   </component>
