@@ -1,7 +1,8 @@
-<p>
-    <a href="https://www.hackerrank.com/amandaskinner">
-    <br>HackerRank and ProjectEuler solutions</a>
-</p>
+## Overview
+<p>I solved several ProjectEuler challenges before I learned how to program.<br>I am currently re-working the problems in Java and adding them to the table below.
+<br>I am also submitting the problems on HackerRank, and working through HackerRank's Java and Python problems.</p>
+<img src=https://projecteuler.net/profile/ASkinner.png>
+
 
 ## Project Euler
 |                                                          Challenge                                                                     | Points |                                                                                          Solution                                                                             |
@@ -19,3 +20,8 @@
 | [Project Euler #11: Largest Product in a Grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011)                         |  100   | [Solution](https://github.com/AmandaMSkinner/Hacker-Rank-and-ProjectEuler/blob/main/ProjectEuler/src/Problem0011.java)                                                   |
 
 ## Hacker Rank
+
+<a href="https://www.hackerrank.com/amandaskinner">Link to my Hacker Rank Profile</a><br>
+<p>Java:  *****  Gold Level<br>
+Python:  *** Silver Level<br>
+30 Days of Code (Java):  ** Bronze Level</p>
