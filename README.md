@@ -18,6 +18,7 @@
 | [Project Euler #9: Special Pythagorean Triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009)                         |  100   | [Solution](https://github.com/AmandaMSkinner/Hacker-Rank-and-ProjectEuler/blob/main/ProjectEuler/src/Problem0009.java)                                                   |
 | [Project Euler #10: Special Pythagorean Triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler010)                         |  100   | [Solution](https://github.com/AmandaMSkinner/Hacker-Rank-and-ProjectEuler/blob/main/ProjectEuler/src/Problem0010.java)                                                   |
 | [Project Euler #11: Largest Product in a Grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011)                         |  100   | [Solution](https://github.com/AmandaMSkinner/Hacker-Rank-and-ProjectEuler/blob/main/ProjectEuler/src/Problem0011.java)                                                   |
+| [Project Euler #13: Large Sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler011)                         |  100   | [Solution](https://github.com/AmandaMSkinner/Hacker-Rank-and-ProjectEuler/blob/main/ProjectEuler/src/Problem0013.java)                                                   |
 
 ## Hacker Rank
 
