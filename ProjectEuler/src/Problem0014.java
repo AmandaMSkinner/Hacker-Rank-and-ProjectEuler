@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class Problem0014 {
@@ -36,7 +35,7 @@ public class Problem0014 {
         } else if (n % 2 == 0) {
             return CollatzCount(n / 2, count + 1);
         } else {
-            return CollatzCount(3 * n + 1, count + 1);
+            return CollatzCount((3 * n + 1)/2, count + 2);
         }
     }
 }
